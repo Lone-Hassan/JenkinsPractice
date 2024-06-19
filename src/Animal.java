@@ -11,6 +11,7 @@ public class Animal {
 	
 		animals an = new animals();
 		an.echo();
+		System.out.println(" new git commit");
 
 	}
 
